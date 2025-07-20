@@ -37,6 +37,7 @@ CSS3
 Vanilla JavaScript (no libraries)
 
 🚀 How to Run
+
 Download or clone the repository.
 
 Open index.html in any web browser.
