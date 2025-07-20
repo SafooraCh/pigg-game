@@ -1,4 +1,5 @@
-🐷 Pig Dice Game 
+🐷 Pig Dice Game
+
 🎮 Description
 A simple 2-player dice game built with HTML, CSS, and JavaScript.
 Each player takes turns to roll a dice and accumulate scores. First to reach 100 points wins the game!
